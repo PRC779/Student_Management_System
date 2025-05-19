@@ -3,7 +3,7 @@ This student-management-system-CRUD  is a simple CRUD application for Student Ma
 
 # Technologies Used
  ### Backend
-  + Java 17 (Open JDK)
+  + Java 
   + Spring Boot
   + Hibernate JPA
  # Template Engine
